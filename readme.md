@@ -2,34 +2,6 @@
 
 The project is a comprehensive online learning platform that connects teachers and students. Teachers can upload courses, and students can access and watch them. The technology stack includes Node.js, Express, React, MongoDB, Mongoose, TypeScript, Redux, Tailwind CSS, and Redis Cache. The project follows the principles of clean architecture to ensure maintainability and scalability.
 
-## Installation
-
-1. Clone the repository:
-
-   ```shell
-   git clone https://github.com/abinth11/TutorTrek.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```shell
-   cd TutorTrek
-   ```
-3. Navigate to client directory and server directory
-
-   ```shell
-   cd client
-   cd server
-   ```
-  
-4. Install the dependencies separately(install in both client and server)
-
-   ```shell
-   yarn install 
-   ```
-
-5. Set up the required environment variables. Rename the `.env.example` file to `.env` and provide the necessary values for your environment.
-
 ## Usage
 
 1. Start the development server:
@@ -163,14 +135,6 @@ To deploy the online learning platform to a production environment, follow the d
 
 Contributions to the project are welcome. To contribute, please follow the guidelines outlined in the [Contributing Documentation](/docs/contributing.md).
 
-
-## Contact
-
-For any questions, feedback, or inquiries, please reach out to:
-
-- Abin T H
-  - Email: abinth250@example.com
-  - LinkedIn: [linkedin-profile](https://www.linkedin.com/in/abin-th-170676245/)
 
 ## Design Files and API Documentation
 
